@@ -1,0 +1,15 @@
+target/
+.cache
+project/project
+project/target
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+.idea_modules
+*.iml
+*.iws
