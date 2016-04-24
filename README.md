@@ -1,4 +1,4 @@
-# "Professional Scala" code
+# Code Examples for Professional Scala - Wrox
 
 ISBN: 978-1-119-26722-5
 
